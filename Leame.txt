@@ -1,0 +1,14 @@
+INSTALANDO EL FIRMADOR:
+Requisitos previos:
+•	Instalar Java.
+Creamos para usted un programa que facilita el proceso recomendado por el Ministerio de Hacienda para la instalación del firmador.
+Instalando el firmador del MH:
+•	Renombrar certificado con el número de NIT, colocarlo en la carpeta (servicioFirmadoWindows).
+•	Mueva la carpeta (servicioFirmadoWindows) al lugar de su preferencia.
+•	Ingresar en la carpeta y ejecutar como administrador (InstalarFirmadorMH.exe).
+•	Dar clic en (Instalar Firmador).
+•	Seguir las instrucciones.
+
+Para borrar la carpeta (servicioFirmadoWindows) deberá de desinstalar el firmador.
+
+Favor de dirigir sus consultas a jefm@outlook.com o al WhatsApp 78674352.
